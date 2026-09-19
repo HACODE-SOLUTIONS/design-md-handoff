@@ -1,0 +1,14 @@
+# Example app dependencies and build artifacts
+example/node_modules/
+example/.next/
+example/out/
+example/.vercel/
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
